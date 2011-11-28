@@ -77,7 +77,7 @@ It's a recommendations engine that plugs into your site to deliver Amazon-like r
   });
 ```
 
-### Example 3
+### Example 4
 
 #### Overwrite an item
 
@@ -94,7 +94,7 @@ It's a recommendations engine that plugs into your site to deliver Amazon-like r
   });
 ```
 
-### Example 4
+### Example 5
 
 #### Delete a resource
 ``` javascript
