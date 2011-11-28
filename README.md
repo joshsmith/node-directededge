@@ -1,10 +1,22 @@
 # node-directededge
 
-A client implementation of DirectedEdge's REST API in Node.js.
+A client implementation of Directed Edge's REST API in Node.js. 
 
-## Example 1
+## What is Directed Edge?
+Directed Edge (http://directededge.com) helps you find related stuff.
 
-### Get 5 new recommended interests for a user
+It's a recommendations engine that plugs into your site to deliver Amazon-like recommendations. You can show your users personalized recommendations and similar content or products based on data you're already collecting.
+
+## Installation
+
+### Installing node-directededge
+`$ npm install node-directedge`
+
+## Examples
+
+### Example 1
+
+#### Get 5 new recommended interests for a user
 
     var de = new DirectedEdge('username', 'password');
 
