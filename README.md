@@ -10,7 +10,9 @@ It's a recommendations engine that plugs into your site to deliver Amazon-like r
 ## Installation
 
 ### Installing node-directededge
-`$ npm install node-directedge`
+``` bash
+  $ npm install node-directedge
+```
 
 ## Examples
 
