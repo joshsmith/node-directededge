@@ -1,9 +1,9 @@
 {
-  "name": "directededge-node",
+  "name": "node-directededge",
   "description": "A DirectedEdge Node.js Client",
   "keywords": ["directededge", "recommendations"],
   "version": "0.1.0",
-  "homepage": "https://github.com/JoshSmith/DirectedEdge-Node",
+  "homepage": "https://github.com/JoshSmith/node-directededge",
   "author": "Josh Smith <joshdotsmith@gmail.com>",
   "contributors": [
     "Josh Smith <joshdotsmith@gmail.com>"
@@ -17,7 +17,7 @@
   "directories": {
     "lib": "lib"
   },
-  "repository": { "type" : "git", "url" : "https://github.com/JoshSmith/DirectedEdge-Node.git" },
+  "repository": { "type" : "git", "url" : "https://github.com/JoshSmith/node-directededge.git" },
   "engines": {
     "node": ">=0.4.0"
   }
